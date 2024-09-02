@@ -1,0 +1,14 @@
+Package: praiseme
+Title: Deliver praise to someone
+Version: 0.0.0.9000
+Authors@R: 
+    person("Van", "Whiteman", , "vanwhiteman@gmail.com", role = c("aut", "cre"))
+Description: We all deserve a little encouragement sometime to keep us going (Plus Ultra!). This package aim to deliver a little praise whenever you need them.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    glue
+
+
